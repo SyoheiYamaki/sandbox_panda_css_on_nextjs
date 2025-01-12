@@ -14,6 +14,7 @@ Panda CSSとNext.jsを使用したシンプルなブログアプリケーショ�
 ## 起動方法
 
 ```
-pnpm run dev
+$ pnpm install
+$ pnpm run dev
 ```
 
