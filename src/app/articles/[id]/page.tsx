@@ -1,6 +1,4 @@
-import { Article } from "@/app/lib/definitions";
 import { articles } from "@/app/lib/placeholder-data"
-import { center } from "../../../../styled-system/patterns";
 import { css } from "../../../../styled-system/css";
 import Image from "next/image";
 import Link from "next/link";
